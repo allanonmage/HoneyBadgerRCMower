@@ -12,5 +12,8 @@ I tried to work in an Arduino safety controller, but couldn't get it working at 
 I used this for several years with used wheelchair batteries, but haven't used it in several years because the batteries are dead.
 
 
-
+Key points:
+* I call it the Honey Badger because it got in a fight with a Suburban, and both machines lost.
+* I met several of my neighbors using it in the front lawn.
+* People will stop and stare when you have an RC Lawnmower.
 
